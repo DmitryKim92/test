@@ -4,7 +4,7 @@ def point_function():
   else:
     print('Монетки в области нет')
 
-x = float(input('Введите координаты икс: '))
+x = float(input('Введите координаты Х: '))
 y = float(input('Введите координаты игрек: '))
 
 point_function()
